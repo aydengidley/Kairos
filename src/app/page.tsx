@@ -12,7 +12,8 @@ export default function HomePage() {
           Welcome to Kairos
         </h1>
         <p className="text-lg sm:text-xl max-w-2xl mx-auto text-muted">
-          Coordinating relief, missions, and response efforts when it matters most.
+          Coordinating relief, missions, and response efforts when it matters
+          most.
         </p>
         <div className="flex justify-center gap-4 pt-4 flex-wrap">
           <Link
@@ -34,7 +35,9 @@ export default function HomePage() {
       <section className="max-w-3xl mx-auto text-center mb-20">
         <h2 className="text-2xl font-semibold mb-2">What is Kairos?</h2>
         <p className="text-muted text-lg">
-          Kairos is a platform designed to aid primarily in the church's external service efforts, such as global humanitarian aid, local disaster relief, or missionary support
+          Kairos is a platform designed to aid primarily in the church's
+          external service efforts, such as global humanitarian aid, local
+          disaster relief, or missionary support
         </p>
       </section>
 
@@ -42,7 +45,7 @@ export default function HomePage() {
       <section className="max-w-5xl mx-auto text-center">
         <h2 className="text-2xl font-semibold mb-4">Visualize Relief</h2>
         <p className="text-muted text-lg mb-6">
-          Our interactive map highlights aid efforts, mission zones, and
+          The interactive map highlights aid efforts, mission zones, and
           disaster response activity in real time.
         </p>
         <Link
