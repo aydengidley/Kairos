@@ -19,10 +19,4 @@ Kairos will be a platform designed to eliminate current inefficiencies in existi
 - **Styling:** TailwindCSS with PostCSS  
 - **Deployment:** Vercel (auto-build on push)   
 - **Frontend Goals:** Minimalistic, soft tactical-style UI; optimized for clarity
-- **Potential Backend:** Supabase or Firebase; used for future data storage, real-time updates, and scalability 
-
----
-
-> “I can’t reach every unsaved person or support every cause, so I want to further empower the people whom God has sent in those roles — to the furthest extent I can — through Kairos.”
-
-
+- **Potential Backend:** Supabase or Firebase; used for future data storage, real-time updates, and scalability
