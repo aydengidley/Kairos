@@ -1,7 +1,6 @@
 # Project Kairos
+![status](https://img.shields.io/badge/PROTOTYPE-red)
 ![status](https://img.shields.io/badge/status-resumed-blue)
->[!NOTE]
->Development is now resuming, though likely inconsistent until January as my school workload calms down.
 
 ## Purpose
 Verses such as Mark 12:29-31, Colossians 3:2, Matthew 6:33, Matthew 28:18-20, and many others make clear what the greatest priorities of Christians are: Love God, Love people. Everything stems from this, and so everything Kairos is and stands for stems from this as well. Project Kairos is developed particularly for the “Love people” point, because one of the most loving things one can do is share the Gospel, both to unbelievers and even believers. I want to use my abilities to impact the kingdom of God to the greatest extent I can, something I hope to achieve through Kairos. 
