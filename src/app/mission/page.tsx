@@ -22,13 +22,12 @@ export default function Mission() {
         </p>
         <h2 className="text-4xl my-4">Mission</h2>
         <p>
-          Kairos will be a platform designed to eliminate current inefficiencies
-          in existing processes and create new processes to improve overall
-          efficiency. The idea is that greater efficiency in the Church's
-          service efforts will lead to more of the Gospel being shared, because
-          service provides ideal opportunities for sharing the Gospel. Kairos
-          will be involved throughout the service lifecycle, from the opportune
-          moment (the “kairos”) to serve to the next.
+          Kairos will equip organizations with tools to clarify needs,
+          coordinate resources, and invite individuals into meaningful
+          participation. It will improve both effectiveness and engagement
+          across the service lifecycle, creating more opportunities for the
+          Gospel to be shared — from one opportune moment (the “kairos”) to
+          serve to the next.
         </p>
       </div>
     </main>
